@@ -1,0 +1,71 @@
+html {
+    background: url(../img/bg.jpg) fixed;
+    background-size: cover;
+}
+
+body {
+    background-color: rgb(0, 126, 251, 0.8);
+    font-family: Arial;
+    font-size: 22px;
+    color: black;
+    padding: 30px;
+    margin: 5% 15% 5% 15%;
+    border-radius: 50px;
+    position: relative;
+}
+
+.per {
+    margin: 40px 0 0 0;
+}
+
+h1 {
+    font-size: 40px Arial;
+    margin: 50px 0 50px 0;
+}
+
+.zag h1 {
+    margin: 20px 0 50px 0;
+    text-align: center;
+}
+
+p{
+    font-size: 22px;
+     margin: 30px 0 30px 0;
+}
+
+.imgIPv6 {
+    display: block;
+    margin: auto;
+    border-radius: 50px;
+}
+
+.ss {
+    background-color: rgb(48, 78, 212);
+    width: 40%;
+    border-radius: 50px;
+    text-align: center;
+    padding: 5px;
+    width: 400px;
+    height: 100px;
+    border: 1px solid blue;
+    border-radius: 0px 50px 0px 50px;
+    position: relative;
+    bottom: -30px;
+    left: -30px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+.author {
+    background-color: rgba(0, 179, 255, 0.6);
+    border-radius: 20px;
+    padding: 5px;
+    position: absolute;
+    right: -20.5%;
+    bottom: -1.6%;
+}

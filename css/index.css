@@ -1,0 +1,43 @@
+html {
+        background: url(../img/bg.jpg) fixed;
+        background-size: cover;
+}
+
+#IP{
+        background-color: rgb(0, 126, 251, 0.6);
+        padding: 30px;
+        text-align: center;
+        width: 600px;
+        margin: 280px 400px 500px 300px;
+        font-family: Arial;
+        font-size: 30px;
+        color: #202020;
+        border-radius: 30px;
+}
+
+.IPv4 {
+        color: #202020;
+        font-size: 30px;
+        display: block;
+        text-decoration: none;
+        font-family: Arial;
+        margin: 50px;
+}
+      
+.IPv5 {
+        color: #202020;
+        font-size: 30px;
+        display: block;
+        text-decoration: none;
+        font-family: Arial;
+        margin: 50px;
+        
+}
+.IPv6 {
+        color: #202020;
+        font-size: 30px;
+        display: block;
+        text-decoration: none;
+        font-family: Arial;
+        margin: 50px;
+}
